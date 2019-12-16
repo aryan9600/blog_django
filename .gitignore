@@ -122,4 +122,6 @@ venv
 
 .env
 
+.idea
+
 # End of https://www.gitignore.io/api/django
